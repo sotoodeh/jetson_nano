@@ -25,5 +25,5 @@ steps for setting up jetson nano board.
 
 - pip3 install opencv-python pycocotools matplotlib onnxruntime onnx
   
-- p 
+- pip3 install pytorch torchvision
 
