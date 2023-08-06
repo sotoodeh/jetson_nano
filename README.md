@@ -15,7 +15,7 @@ steps for setting up jetson nano board.
 
 ## python dependencies
 
-- sudo apt install python3-pip
+- sudo apt install python3-pip python-pip
 
 - python3 -m pip install --upgrade pip
 
