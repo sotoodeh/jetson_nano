@@ -33,6 +33,8 @@ steps for setting up jetson nano board.
 
 - sudo apt install libcanberra-gtk-module libcanberra-gtk3-module -y
 
+- https://github.com/ukhov79/Jetson-Nano-CSI-Stereo-Vision 
+
 
 
 
