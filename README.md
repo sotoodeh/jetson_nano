@@ -29,3 +29,11 @@ steps for setting up jetson nano board.
   
 - pip3 install torch torchvision
 
+## stereo camera
+
+- sudo apt install libcanberra-gtk-module libcanberra-gtk3-module -y
+
+
+
+
+
