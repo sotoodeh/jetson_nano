@@ -36,6 +36,11 @@ steps for setting up jetson nano board.
 - https://github.com/ukhov79/Jetson-Nano-CSI-Stereo-Vision 
 
 
+## if touchpad does not work
+
+- sudo apt remove fwupd
+
+
 
 
 
