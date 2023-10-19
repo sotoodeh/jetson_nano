@@ -41,6 +41,9 @@ steps for setting up jetson nano board.
 - sudo apt remove fwupd
 
 
+## to flash the SD card
 
+- https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
+- if flashing fails: lock the SD card (https://github.com/balena-io/etcher/issues/3197 and https://www.minitool.com/data-recovery/sd-card-lock-unlock.html)
 
