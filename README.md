@@ -40,6 +40,8 @@ steps for setting up jetson nano board.
 
 - sudo apt remove fwupd
 
+- sudo reboot
+
 
 ## to flash the SD card
 
