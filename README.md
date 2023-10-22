@@ -49,3 +49,6 @@ steps for setting up jetson nano board.
 
 - if flashing fails: lock the SD card (https://github.com/balena-io/etcher/issues/3197 and https://www.minitool.com/data-recovery/sd-card-lock-unlock.html)
 
+## viewing the pointcloud .ply in meshlab
+
+- https://www.meshlab.net/#download
