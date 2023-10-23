@@ -35,7 +35,7 @@ steps for setting up jetson nano board.
 
 - https://github.com/ukhov79/Jetson-Nano-CSI-Stereo-Vision 
 
-- If you find that the image captured is red. You can try to download .isp file and installed:
+If you find that the image captured is red. You can try to download .isp file and installed:
 
 - wget https://files.waveshare.com/upload/e/eb/Camera_overrides.tar.gz
 
