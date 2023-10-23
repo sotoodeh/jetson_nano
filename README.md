@@ -35,6 +35,17 @@ steps for setting up jetson nano board.
 
 - https://github.com/ukhov79/Jetson-Nano-CSI-Stereo-Vision 
 
+- If you find that the image captured is red. You can try to download .isp file and installed:
+
+- wget https://files.waveshare.com/upload/e/eb/Camera_overrides.tar.gz
+
+- tar zxvf Camera_overrides.tar.gz 
+
+- sudo cp camera_overrides.isp /var/nvidia/nvcam/settings/
+
+- sudo chmod 664 /var/nvidia/nvcam/settings/camera_overrides.isp
+
+- sudo chown root:root /var/nvidia/nvcam/settings/camera_overrides.isp
 
 ## if touchpad does not work
 
