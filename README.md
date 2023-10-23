@@ -47,6 +47,11 @@ If you find that the image captured is red. You can try to download .isp file an
 
 - sudo chown root:root /var/nvidia/nvcam/settings/camera_overrides.isp
 
+## packages
+
+- sudo apt install openssh-client openssh-server
+
+
 ## if touchpad does not work
 
 - sudo apt remove fwupd
